@@ -20,11 +20,6 @@
 - **프레임워크 및 라이브러리**: React, Node.js, Arduino
 - **기타**: Git, Docker, Firebase
 
-## 🌟 현재 작업 중인 것들
-
-- [IoT 기반 스마트 홈 시스템 구축](https://github.com/park-02/SmartHomeProject): 실시간 데이터 수집 및 분석을 위한 스마트 홈 시스템을 개발 중입니다.
-- [개인 블로그 구축](https://github.com/park-02/PersonalBlog): 개인 블로그를 구축하여 개발 경험과 기술을 공유하고 있습니다.
-
 ## 📬 연락처
 
 - ✉️ 이메일: [vlvk8195@naver.com](mailto:vlvk8195@naver.com)
