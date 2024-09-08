@@ -16,7 +16,7 @@
 
 ## 🛠️ 사용 기술
 
-- **프로그래밍 언어**: Python, JavaScript, C/C++
+- **프로그래밍 언어**: C/C++, Python, JavaScript
 - **프레임워크 및 라이브러리**: React, Node.js, Arduino
 - **기타**: Git, Docker, Firebase
 
