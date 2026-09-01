@@ -20,6 +20,3 @@
 ## 연락처
 
 - 이메일: [vlvk8195@naver.com](mailto:vlvk8195@naver.com)
-
-
-감사합니다! 제 GitHub 프로필을 방문해 주셔서 감사합니다.
